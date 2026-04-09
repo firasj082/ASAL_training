@@ -1,3 +1,5 @@
+package Encapsulation;
+
 public class BankAccount {
 
     private float balance = 0;
