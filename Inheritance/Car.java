@@ -1,3 +1,5 @@
+package Inheritance;
+
 public class Car extends Vehicle{
     
     private int n_doors;
