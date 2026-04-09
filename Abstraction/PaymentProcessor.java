@@ -1,3 +1,5 @@
+package Abstraction;
+
 public interface PaymentProcessor {
     
     void process(double amount);

@@ -1,3 +1,5 @@
+package Abstraction;
+
 public class CreditCardProcessor implements PaymentProcessor {
     
     public void process(double amount){
